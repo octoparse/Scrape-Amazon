@@ -1,6 +1,6 @@
 # Scrape-Amazon
 scrape amazon, scrape product information, scrape reviews, scrape images
-Download the `.otd` file, import into Octoparse, `a free web scraping App,` and get the Amazon data yourself
+Download the `.otd` file, import into [Octoparse](https://www.octoparse.com/), a free web scraping App, and get the Amazon data yourself!
 ## Scraping Product Information from Amazon<br>
 ### Data extracted in the crawler: <br>
  * Brand<br> 
