@@ -11,3 +11,4 @@ Video Instruction at: [Scrape Product and Image from Amazon](https://youtu.be/vE
  * Title
  * Star_Rating
  * Price
+![Amazon](https://www.octoparse.com/media/5431/amazon-data-extracted.png)
