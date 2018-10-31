@@ -7,7 +7,7 @@ Video Instruction at: [Scrape Product and Image from Amazon](https://youtu.be/vE
 
 You can create your own web crawler with Octoparse and scrape any information you want on Amazon.
 
-## Data extracted in the crawler: <br>
+## Data extracted in the provided crawler provided:
  * Brand
  * Title
  * Star_Rating
